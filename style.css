@@ -59,3 +59,7 @@
   height: 30px;
   width: 50px;
 }
+
+input[type="text"] {
+  text-align: center;
+}
